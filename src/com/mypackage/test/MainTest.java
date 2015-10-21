@@ -3,8 +3,8 @@ package com.mypackage.test;
 public class MainTest {
 
 	public static void main(String[] args) {
-		System.out.println("test");
-
+		// TODO Auto-generated method stub
+		System.out.println("lakala test  234234a");
 	}
 
 }
